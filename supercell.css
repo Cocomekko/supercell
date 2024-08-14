@@ -226,6 +226,9 @@ section{
 #info-section2{
     z-index: 5;
 }
+.info-box-2 > img{
+    order:1;
+}
 #see-games-box-section{
     z-index: 6;
 }
