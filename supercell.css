@@ -42,8 +42,6 @@ nav:hover {
   flex-grow: 1;
 }
 .menu-sm {
-  border: solid white 1px;
-  border-radius: 2px;
   display: none;
   align-self: center;
   justify-content: center;
